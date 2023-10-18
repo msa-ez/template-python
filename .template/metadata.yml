@@ -1,7 +1,7 @@
-name: Go
+name: Python
 rating: 5
-imageUrl: https://github.com/msa-ez/template-axon2/assets/130956306/129ca40e-0cb4-4c7e-9a64-5715dfa9344c
-templateName: go
-description: Text-based template system that facilitates dynamically generating text by combining data and templates.
+imageUrl: https://github.com/msa-ez/template-axon2/assets/130956306/763aa080-b319-4928-bfec-18b3868ae477
+templateName: python
+description: It is widely used in web applications, software development, data science, and machine learning
 tags:
-  - Go
+  - Python
